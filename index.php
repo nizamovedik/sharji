@@ -86,6 +86,7 @@ $APPLICATION->SetTitle("Шаржи");
               <div class="videos">
                 <div class="larrow"><a href=""></a></div>
                 <div class="rarrow"><a href=""></a></div>
+
                 <div class="slick-slider-videos">
                   <div class="item">
                     <div class="video">
@@ -106,6 +107,7 @@ $APPLICATION->SetTitle("Шаржи");
                     <div class="name">Процесс создания черно белого шаржа</div>
                   </div>
                 </div>
+
               </div>
             </div>
           </div>
